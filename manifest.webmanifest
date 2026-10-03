@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "salahu01 — Room",
+  "short_name": "salahu01",
+  "description": "A developer's room in 3D. The framed screens on the wall are live projects.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#1a1714",
+  "theme_color": "#1a1714",
+  "categories": ["entertainment", "personalization"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
